@@ -1,0 +1,2 @@
+# Machine_Learning_Project_2021
+Your client is a large Multinational Corporation, and they have nine broad verticals across the organization. One of the problems your client faces is identifying the right people for promotion (only for the manager position and below) and preparing them in time. Predict whether a potential promotee at a checkpoint will be promoted or not after the evaluation process.
